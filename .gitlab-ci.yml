@@ -1,0 +1,6 @@
+stages:
+    - trigger
+
+trigger:
+    stage: trigger
+    trigger: r10k
