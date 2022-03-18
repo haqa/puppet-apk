@@ -3,4 +3,4 @@ stages:
 
 trigger:
     stage: trigger
-    trigger: r10k
+    trigger: /limbic-private/puppet/r10k
